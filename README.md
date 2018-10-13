@@ -1,1 +1,1 @@
-# unit-4-game
+This is supposed to be a silly "crystal collector" game similar to hangman, with little strategy involved. 
